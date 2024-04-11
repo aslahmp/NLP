@@ -1,3 +1,2 @@
 spacy==3.7.4
 newspaper
-en_core_web_sm
